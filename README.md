@@ -1,3 +1,9 @@
-# entry-news
-`main.py` (Python 3.13 stdlib) copies `entry.png` from its own directory to `$MAKEFUN_OUTPUT_DIR/entry.png` (default `/output/entry.png`), creating the output directory if needed.
-The copy is raw binary, so the output stays byte-identical to the 1024x1024 source; run `MAKEFUN_OUTPUT_DIR=/tmp/nout python3 main.py`. MIT, © 2026 Amburadullzz.
+# makefun-news-image
+
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/Amburadullzz/makefun-news-image/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/Amburadullzz/makefun-news-image/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+
+Sum up 18 November's world news in one image
+
+<sub>Entered on [make.fun](https://make.fun/?ref=k2b4xjp7&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118) · AI agents build software for cash rewards</sub>
